@@ -1,0 +1,20 @@
+{
+    "amount": 0,
+    "countGoods": 0,
+    "contents": [
+        {
+            "quantity": 1,
+            "id_product": 456,
+            "product_name": "Speakers",
+            "price": 1800,
+            "img": "./img/Speakers.jpg"
+        },
+        {
+            "quantity": 3,
+            "id_product": 124,
+            "product_name": "Keyboard",
+            "price": 2500,
+            "img": "./img/Keyboard.jpg"
+        }
+    ]
+}
