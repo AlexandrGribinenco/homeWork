@@ -1,0 +1,26 @@
+[
+  {
+    "id_product": 124,
+    "product_name": "Keyboard",
+    "price": 2500,
+    "img": "./img/keyboard.jpg"
+  },
+  {
+    "id_product": 457,
+    "product_name": "Mouse",
+    "price": 3500,
+    "img": "./img/Mouse.jpg"
+  },
+  {
+    "id_product": 123,
+    "product_name": "Laptop",
+    "price": 30600,
+    "img": "./img/Laptop.jpg"
+  },
+  {
+    "id_product": 456,
+    "product_name": "Speakers",
+    "price": 1800,
+    "img": "./img/Speakers.jpg"
+  }
+]
